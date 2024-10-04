@@ -50,7 +50,7 @@ const colores = ['#FF0000', '#00FF00', '#FF00FF'];
                     indice = (indice + 1) % colores.length;
                     cambiarColor();
                 }
-            }, 20); 
+            }, 10); 
         };
 
         cambiarColor();
